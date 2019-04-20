@@ -1,5 +1,14 @@
 # etude-kivy
 
+- [Requirements](#requirements)
+- [How to development on Mac OS](#how-to-development-on-mac-os)
+  - [Create virtualenv](#create-virtualenv)
+  - [Install dependencies](#install-dependencies)
+- [How to Run](#how-to-run)
+  - [Popup](#popup)
+  - [Misc.](#misc)
+
+
 ## Requirements
 
 * Homebrew
@@ -32,7 +41,7 @@ pip install -r requirements.txt
 
 ```
 cd popup
-python
+python MainApp.py
 ```
 
 ### Misc.
