@@ -1,4 +1,4 @@
-# etude-kivy
+# etude-Kivy
 
 - [Requirements](#requirements)
 - [How to development on Mac OS](#how-to-development-on-mac-os)
